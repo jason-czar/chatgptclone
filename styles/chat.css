@@ -1,0 +1,32 @@
+.message {
+    border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+}
+
+.user-message {
+    background-color: #444654;
+}
+
+.ai-message {
+    background-color: #343541;
+}
+
+.input-box {
+    background-color: #40414f;
+    border-radius: 0.5rem;
+    border: 1px solid #565869;
+}
+
+.input-box:focus {
+    border-color: #2b6cb0;
+    outline: none;
+}
+
+.send-button {
+    background-color: #2b6cb0;
+}
+
+.send-button:hover {
+    background-color: #2c5282;
+}
